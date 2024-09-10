@@ -1,4 +1,4 @@
-PROGRAMS = primitives segments locals functionlocals strings stringify std-stringify \
+PROGRAMS = primitives segments locals functionlocals strings stringify stringify_sol_by_me std-stringify \
 	dynamic sizes \
 	intgen intsort intsort-binsearch intsort-tree intsort-vector
 all: $(PROGRAMS)
